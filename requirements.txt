@@ -17,7 +17,6 @@ folium
 xmltodict
 streamlit-option-menu
 pingouin
-jupyterlab
 my_text_sum
 openai
 os
