@@ -16,7 +16,6 @@ geopandas
 folium
 xmltodict
 streamlit-option-menu
-milify
 pingouin
 jupyterlab
 my_text_sum
