@@ -17,7 +17,6 @@ folium
 xmltodict
 streamlit-option-menu
 openai
-os
 PyPDF2
 PdfReader
 tiktoken
