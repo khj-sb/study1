@@ -16,7 +16,6 @@ geopandas
 folium
 xmltodict
 streamlit-option-menu
-pingouin
 my_text_sum
 openai
 os
