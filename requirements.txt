@@ -19,3 +19,11 @@ streamlit-option-menu
 milify
 pingouin
 jupyterlab
+my_text_sum
+openai
+os
+PyPDF2
+PdfReader
+tiktoken
+textwrap
+deepl
